@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas de GifItem should evaluate snapshot 1`] = `
+<div>
+  <div
+    class="card"
+  >
+    <img
+      alt="Naruto Shippuden"
+      src="https://media4.giphy.com/media/2y98KScHKeaQM/giphy.gif?cid=4523aefel0986zifubtkxvuq8l41qr8fcrr1p1iylhlxvlfj&ep=v1_gifs_search&rid=giphy.gif&ct=g"
+    />
+    <p>
+      Naruto Shippuden
+    </p>
+  </div>
+</div>
+`;
